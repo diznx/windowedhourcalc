@@ -1,0 +1,2 @@
+# windowedhourcalc
+Windowed hour calculator.
